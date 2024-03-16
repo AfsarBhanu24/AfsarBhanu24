@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afsar Bhanu</h1>
 <h3 align="center">A passionate FULL STACK PYTHON DEVELOPER from India</h3>
 
-p align="left"> <img src="https://komarev.com/ghpvc/?username=afsarbhanu24&label=Profile%20views&color=0e75b6&style=flat" alt="afsarbhanu24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afsarbhanu24&label=Profile%20views&color=0e75b6&style=flat" alt="afsarbhanu24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afsarbhanu24" alt="afsarbhanu24" /></a> </p>
 
